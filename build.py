@@ -24,7 +24,7 @@ WIDTH = 56  # characters from the key to the end of the value
 
 CARD = [
     ("header", "pedro@sicilia"),
-    [("OS", "Windows 11, macOS/OS X, Linux, Android, iOS, iPadOS")],
+    [("OS", "Windows, macOS/OS X, Linux, Android, iOS, iPadOS")],
     [("Uptime", "{uptime}")],
     [("Host", "Miami, FL")],
     [("Kernel", "Developer -> Sales -> back to building")],
